@@ -3,4 +3,4 @@ services:
   translation_bot:
     build: .
     environment:
-      - TOKEN=ODI4OTEzMzM3MDA1Mzc1NTA4.YGwftA.Whod5ZxBJkYqueariNE1cmHdvoYdock
+      - TOKEN=[bot_token]
